@@ -1,0 +1,20 @@
+p{
+    color: yellow;
+}
+.box{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    margin: 25px;
+    padding: 25px; ;
+}
+#a{
+    background-color: orange;
+}
+#b{
+    background-color: white;
+}
+#c
+{
+    background-color: green;
+}
